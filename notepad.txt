@@ -1,0 +1,9 @@
+Catatan :
+
+
+   static : nilai yang tidak bergerak/berubah
+   static sebagai keyword
+   untuk mengakses properti static menggunakan titik dua (::)
+   self artinya keyword untuk mengakses properti atau function kepunyaan sendiri
+   parent artinya mengakses properti/function kepunyaan ParentClass ketika dilakukan pewarisan oleh ChildClass
+
